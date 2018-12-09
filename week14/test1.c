@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-void m_strcpy(char * str1,char *str2);
+void m_strcpy(char *str1,char *str2);
 
 int main(){
     char a[10],b[10];
